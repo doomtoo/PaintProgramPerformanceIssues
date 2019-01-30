@@ -1,0 +1,10 @@
+.gradle/
+.vscode/
+build/
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+Temp/
+
